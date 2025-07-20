@@ -1,2 +1,2 @@
 # artnocodo
-Public artnocodo relations
+Artnocodo related
